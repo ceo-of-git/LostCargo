@@ -1,9 +1,9 @@
-# R2Boilerplate
+# Lost Cargo
+A Risk of Rain 2 mod that adds items of varying Quality. In function and the 3D Modelling (I'm so garbage at this can someone help?)
+Right now it doesnt add much. but that is because I started working on this like yesterday.
 
-This repository contains a sample mod for Risk of Rain 2.
+-----
 
-You can clone this repository, open the visual studio solution file and compile it immediately.
+Created from the ROR2 Thunderstore [Boilerplate template thingy.](https://github.com/risk-of-thunder/R2Boilerplate)
 
-This repository is meant to represent best practices for starting a simple mod.
-
-Once your mod get compiled, you can utilize the Thunderstore folder for later uploading it to https://thunderstore.io/c/riskofrain2/
+---
