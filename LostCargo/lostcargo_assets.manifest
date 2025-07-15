@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 790725955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 631916beed69dafb19111911dbbe0131
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b8eee3f0d678989ef58e3425f7115e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Materials/Item/Joker/Joker.png
+- Assets/Textures/Icons/Equipment/Perithesene.png
+- Assets/Textures/Icons/Equipment/Nuclear Bomb.png
+- Assets/Models/Prefabs/Equipment/Nuclear Bomb.prefab
+- Assets/Textures/Icons/Item/Magic Top Hat.png
+- Assets/Models/Prefabs/Item/Adapative Armor.prefab
+- Assets/Models/Prefabs/Equipment/Perithesene.prefab
+- Assets/Textures/Icons/Item/Lithium Ion.png
+- Assets/Textures/Materials/Item/Adapative Armor/AdaptiveArmor.png
+- Assets/Models/Meshes/Joker.obj
+- Assets/Models/Meshes/Lithium Ion.obj
+- Assets/Textures/Materials/Item/Adapative Armor/AdapativeArmor.mat
+- Assets/Textures/Materials/Equipment/Perithesene/Nuclear Bomb.png
+- Assets/Textures/Materials/Item/Adapative Armor 1/AdapativeArmor.mat
+- Assets/Textures/Materials/Equipment/Nuclear Bomb/NuclearBomb.mat
+- Assets/Textures/Icons/Item/Adapative Armor.png
+- Assets/Textures/Materials/Equipment/Nuclear Bomb/Nuclear Bomb.png
+- Assets/Models/Prefabs/Item/Plastic Knife.prefab
+- Assets/Models/Meshes/Adapative Armor.obj
+- Assets/Textures/Icons/Item/Plastic Knife.png
+- Assets/Models/Meshes/Magic Top Hat.obj
+- Assets/Models/Prefabs/Item/Joker.prefab
+- Assets/Textures/Icons/Item/Joker.png
+- Assets/Models/Prefabs/Item/Lithium Ion.prefab
+- Assets/Models/Prefabs/Item/Magic Top Hat.prefab
+- Assets/Textures/Materials/Item/Lithium Ion/Lithium Ion.png
+- Assets/Textures/Materials/Equipment/Perithesene/NuclearBomb.mat
+- Assets/Textures/Materials/Item/Lithium Ion/Lithium Ion.mat
+- Assets/Textures/Materials/Item/Magic Top Hat/Magic Top Hat.png
+- Assets/Models/Meshes/Nuclear Bomb.obj
+- Assets/Textures/Materials/Item/Magic Top Hat/Magic Top Hat.mat
+- Assets/Models/Meshes/Perithesene.obj
+Dependencies: []

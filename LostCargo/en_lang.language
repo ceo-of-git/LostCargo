@@ -1,0 +1,39 @@
+{
+    "en": {
+        "COMMON_ADAPTIVEARMOR_NAME": "Adaptive Armor",
+        "COMMON_ADAPTIVEARMOR_PICKUP": "Reduces damage taken from Heavy Hits.",
+        "COMMON_ADAPTIVEARMOR_DESC": "Whenever you take above <color=yellow>30%</color> of your <color=green>Maximum Health</color> as damage, <color=green>Reduce</color> that oncoming damage by 30% <color=grey>(+5% per stack, Hyperbolically)</color>. <color=yellow>Unaffected by luck</color>.",
+        "COMMON_ADAPTIVEARMOR_LORE": "Its like armor from Minecrafft. This is kinda cool and awesome and SICK! ",
+
+        "COMMON_PLASTICKNIFE_NAME": "Exceptionally Dull Plastic Knife",
+        "COMMON_PLASTICKNIFE_PICKUP": "<color=green>+3</color> Damage <color=grey>(+6 per stack)</color>",
+        "COMMON_PLASTICKNIFE_DESC": "<color=green>+3</color> Damage <color=grey>(+6 per stack)</color>",
+        "COMMON_PLASTICKNIFE_LORE": "Petrichor V is a beautiful planet and must not be littered on.\n\n\nSidenote: My 3d modelling skills only get better and better",
+
+        "UNCOMMON_LITHIUMION_NAME": "Lithium Ion Battery",
+        "UNCOMMON_LITHIUMION_PICKUP": "<color=yellow>5%</color> <color=grey>(+3% per stack)</color> Chance to strike the enemy with lightning, dealing <color=yellow>100%</color> base damage.",
+        "UNCOMMON_LITHIUMION_DESC": "<color=yellow>5%</color> <color=grey>(+3% per stack)</color> Chance to strike the enemy with lightning, dealing <color=yellow>100%</color> base damage. <color=grey>(This has a Proc Coefficient of 2)</color>",
+        "UNCOMMON_LITHIUMION_LORE": "Someone overcharged this thing",
+
+        "LEGENDARY_BALATRO_NAME": "Jimbo",
+        "LEGENDARY_BALATRO_PICKUP": "<color=red>+4</color> Levels at start of stage",
+        "LEGENDARY_BALATRO_DESC": "<color=red>+4</color> Levels <color=grey>(+4 per stack)</color> whenever a new stage is reached",
+        "LEGENDARY_BALATRO_LORE": "How did this guy get here?",
+
+        "LUNAR_MAGICHAT_NAME": "Magic TopHat",
+        "LUNAR_MAGICHAT_PICKUP": "<color=green>+5% Movement Speed</color> <color=grey>(+5% per stack)</color> and <color=red>-5% Damage</color> <color=grey>(-1% per stack)</color> per Missing % of Health you have.",
+        "LUNAR_MAGICHAT_DESC": "<color=green>+5% Movement Speed</color> <color=grey>(+5% per stack, Limit of +500%)</color> and <color=red>-5% Damage</color> <color=grey>(-1% per stack, Limit of -90%)</color> per Missing % of Health you have.",
+        "LUNAR_MAGICHAT_LORE": "\"For my next magic trick I will become crippled but be very fast throughout it.\" \n  - The Last words of \"John Magic\" as he performed his final trick, right before falling to his death.\n\n\nNot his finest trick.",
+
+        "EQUIPMENT_PERITHESENE_NAME": "Cocktail 'PERITHESENE'",
+        "EQUIPMENT_PERITHESENE_PICKUP": "Give your self a large temporary Attack & Movement Speed buff.",
+        "EQUIPMENT_PERITHESENE_DESC": "Gives yourself <color=yellow>10 Seconds</color> of <color=yellow>+130%</color> Attack Speed & <color=yellow>+70%</color> Movement Speed.",
+        "EQUIPMENT_PERITHESENE_LORE": "The expiration date of this says it will.... decay..... during winter..... Intriguing.",
+
+        "EQUIPMENT_NUCLEARBOMB_NAME": "Nuclear Bomb",
+        "EQUIPMENT_NUCLEARBOMB_PICKUP": "Annihiliate everything, including yourself.",
+        "EQUIPMENT_NUCLEARBOMB_DESC": "Cause a Nuclear Explosion that will completely obliterate everything on the map (Including you!)",
+        "EQUIPMENT_NUCLEARBOMB_LORE": "Who the FUCK put a NUCLEAR BOMB on the Contact Light????"
+    }
+}
+S
