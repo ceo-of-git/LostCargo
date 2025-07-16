@@ -8,7 +8,7 @@
         "COMMON_PLASTICKNIFE_NAME": "Exceptionally Dull Plastic Knife",
         "COMMON_PLASTICKNIFE_PICKUP": "<color=green>+3</color> Damage <color=grey>(+6 per stack)</color>",
         "COMMON_PLASTICKNIFE_DESC": "<color=green>+3</color> Damage <color=grey>(+6 per stack)</color>",
-        "COMMON_PLASTICKNIFE_LORE": "Petrichor V is a beautiful planet and must not be littered on.\n\n\nSidenote: My 3d modelling skills only get better and better",
+        "COMMON_PLASTICKNIFE_LORE": "Petrichor V is a beautiful planet and must not be littered on.\nThe punishment for this is death.",
 
         "UNCOMMON_LITHIUMION_NAME": "Lithium Ion Battery",
         "UNCOMMON_LITHIUMION_PICKUP": "<color=yellow>5%</color> <color=grey>(+3% per stack)</color> Chance to strike the enemy with lightning, dealing <color=yellow>100%</color> base damage.",
